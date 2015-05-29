@@ -1,5 +1,5 @@
 {
-  "name": "catbox-rethinkdb",
+  "name": "@getable/catbox-rethinkdb",
   "description": "RethinkDB adapter for catbox",
   "version": "1.0.3",
   "author": "Brandon Martin <brandon@codedmart.com>",
