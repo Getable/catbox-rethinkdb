@@ -1,7 +1,7 @@
 {
   "name": "@getable/catbox-rethinkdb",
   "description": "RethinkDB adapter for catbox",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "Brandon Martin <brandon@codedmart.com>",
   "contributors": [
     "Jose-Luis Rivas <me@ghostbar.co>"
@@ -38,9 +38,9 @@
     "test": "make test"
   },
   "licenses": [
-      {
-        "type": "BSD",
-        "url": "http://github.com/codedmart/catbox-rethinkdb/raw/master/LICENSE"
-      }
+    {
+      "type": "BSD",
+      "url": "http://github.com/codedmart/catbox-rethinkdb/raw/master/LICENSE"
+    }
   ]
 }
